@@ -17,12 +17,12 @@ def getData():
     for j in range(1, 1585):
         array = []
         for i in range(0, 20):
-            array.append(data[i][j])
+            array.append(float(data[i][j]))
         arr.append(Category(array, "male"))
     for j in range(1585, 3169):
         array = []
         for i in range(0, 20):
-            array.append(data[i][j])
+            array.append(float(data[i][j]))
         arr.append(Category(array, "female"))
 
     np.save("../Dataset/DataSet.npy", arr)
