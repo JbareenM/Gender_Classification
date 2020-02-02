@@ -45,6 +45,7 @@ After using the neural network RNN and LSTM with 50 iteration we got 98%+ accura
 ![image](https://user-images.githubusercontent.com/33619392/73287776-71830080-4202-11ea-86b4-2fced4afeb07.png)
 
 
-
+authors
+Jbareen Mohamad, Dregat Ahmad, Amer Eyad
 
 
